@@ -17,6 +17,7 @@ list(APPEND test_target_sources
         KrylovSchur.cpp
         QR.cpp
         RitzPairs.cpp
+        Schur.cpp
         SearchSpace.cpp
         SparseGenMatProd.cpp
         SparseSymMatProd.cpp
